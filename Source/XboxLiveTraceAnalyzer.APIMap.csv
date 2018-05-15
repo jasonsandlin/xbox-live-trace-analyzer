@@ -19,3 +19,4 @@
 "GET https://contextualsearch.xboxlive.com/titles/{titleid}/configuration","contextual_search_service::get_configuration","ContextualSearchService::GetConfiguration"
 "GET https://contextualsearch.xboxlive.com/titles/{titleId}/broadcasts","contextual_search_service::get_broadcasts","ContextualSearchService::GetBroadcasts"
 "GET https://contextualsearch.xboxlive.com//titles/{titleId}/gameclips","contextual_search_service::get_game_clips","ContextualSearchService::GetGameClipsAsync"
+"eplists.xboxlive.com","entertainment_profile_list_xbox_one_pins","entertainment_profile_list_xbox_one_pins"
